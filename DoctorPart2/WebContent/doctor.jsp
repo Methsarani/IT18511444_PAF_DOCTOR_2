@@ -23,7 +23,7 @@ body  {
 		<div class="row">
 			<div class="col-6">
 				<h1>Doctor Details</h1>
-				<p>Please fill in this form to doctor details.</p>
+				<p>Please File this form.</p>
 				<form id="formDoctor" name="formDoctor" style="font-weight: bold">
 					Doctor Name: 
 					<input id="doctorName" name="doctorName" type="text" placeholder="Enter the doctor name" class="form-control form-control-sm" >
