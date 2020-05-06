@@ -80,7 +80,6 @@ function onDoctorSaveComplete(response, status) {
 	
 }
 
-//(doctorID, doctorName, doctorAge, doctorSpe, doctorContact, doctorEmail)"
 
 //UPDATE==========================================
 $(document).on("click", ".btnUpdate", function(event)
@@ -142,7 +141,6 @@ function onDoctorDeleteComplete(response, status) {
 }
 
 
-//(doctorID, doctorName, doctorAge, doctorSpe, doctorContact, doctorEmail)"
 
 //CLIENT-MODEL================================================================
 function validateDoctorForm()
