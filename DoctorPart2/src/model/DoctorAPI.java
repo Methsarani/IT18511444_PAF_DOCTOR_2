@@ -70,7 +70,7 @@ public class DoctorAPI extends HttpServlet {
 		response.getWriter().write(output); 
 	}
 	
-	//Covert request parameters to a map
+	//Covert request parameters to a map.
 		private static Map getParasMap(HttpServletRequest request)
 		{
 		 Map<String, String> map = new HashMap<String, String>();
